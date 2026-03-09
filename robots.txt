@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://huntarts.vercel.com/sitemap.xml
